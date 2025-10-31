@@ -1,0 +1,1 @@
+export default function Navbar(){ return (<nav className='p-4 bg-[#0066FF] text-white'>BANT Confirm</nav>) }
